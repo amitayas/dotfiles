@@ -1,0 +1,1 @@
+/usr/lib/kitty/shell-integration/kitty.fish
