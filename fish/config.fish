@@ -4,9 +4,13 @@ if status is-interactive
 end
 
 export EDITOR=nvim
+export SHELL=fish
 
 #colorscript random
 
 
 neofetch
 starship init fish | source
+
+#neofetch
+#fortune | ponysay
